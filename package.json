@@ -1,0 +1,25 @@
+{
+  "name": "react-mui-tailwind_css_frontend",
+  "version": "1.0.1",
+  "description": "react-mui-tailwind_css_frontend",
+  "main": "index.js",
+  "bin": {
+    "transfyvthree": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "web_naresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate.git"
+  },
+  "homepage": "https://github.com/WebNaresh/vite-react-app-mui-tailwindcss--integrate/"
+}
