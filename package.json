@@ -1,13 +1,13 @@
 {
-  "name": "react-mui-tailwind_css_frontend",
+  "name": "@web_naresh/mui-tailwind_css_frontend",
   "version": "1.0.1",
   "description": "react-mui-tailwind_css_frontend",
   "main": "index.js",
   "bin": {
     "transfyvthree": "./bin/cli.js"
   },
-  "publishConfig":{
-    "registry":"https://npm.pkg.github.com/@web_naresh"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "frontend"
